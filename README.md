@@ -2,11 +2,7 @@
 
 A self-hosted AI assistant built on n8n, with a custom luxury-themed web frontend ("Aurelius"). One assistant, five tools, all backed by real automation — not just a chat wrapper.
 
-## Preview
-
-![Dashboard](assets/dashboard.png)
-![Normal Chat](assets/chat.png)
-![Expense Tracker](assets/expenses.png)
+For a visual preview, see `Screenshots.zip` in this repo.
 
 ## Tools
 
